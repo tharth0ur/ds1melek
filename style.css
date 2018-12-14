@@ -1,0 +1,150 @@
+body {
+    color: rgb(44, 19, 19);
+    font-family: Arial;
+    text-align: center;
+    background-color: white;
+}
+#magnum {
+    background-image: url("template/img/intro-bg.jpg") ;
+    padding-top: 10%;
+    padding-bottom: 15%;
+}
+h1 {
+    font-size: 50px;
+}
+hr {
+    width: 5%;
+}
+
+#learnmorebtn, #portfoliobtn, .btns, #sendbtn {
+    background-color: transparent;
+    border-color: rgb(44, 19, 19);
+    padding: 15px;
+}
+li {
+
+    text-align: center;
+    list-style-type: none;
+    display: inline-block;
+    width: 20%;
+}
+#nav {
+    background-color: #f6f6f6;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#ulnav, #ulshare {
+    text-align:center;
+}
+
+#lorem {
+    padding-top: 75px;
+    padding-bottom: 75px;
+    border-radius: 50%;
+}
+
+p {
+width: 50%;
+text-align: center;
+margin-left: 25%;
+}
+
+#aboutme {
+    background-color: white !important;
+    padding-bottom: 50px;
+}
+
+#divgrey {
+    background-color: #f6f6f6 ;
+  
+}
+#divportfolio {
+    background-color: #f6f6f6 ;
+    padding-top: 80px;
+}#buttons {
+    padding-top: 50px;
+    padding-bottom:50px;
+    background-color: #f6f6f6 ;
+}
+.btns {
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.large {
+    width: 22%;
+    display: inline-block;
+    margin-right: -5px;
+    padding: 10px;
+}
+
+#tsawer {
+    background-color: #f6f6f6 ;
+    padding-bottom: 100px;
+}
+.divgetintouch {
+    background-color: transparent ;
+    padding-top: 80px;    
+    padding-bottom: 50px;
+}
+
+#divform {
+    margin-top: 50px;
+}
+
+.forml1 {
+    display: inline-block;
+
+    size: 1000;
+    box-sizing: border-box;
+}
+
+#name {
+    
+    margin-right: 30px;
+}
+
+
+
+#msg {
+padding-right: 30%;
+padding-bottom: 5%;
+box-align: center;
+text-align: left;
+}
+
+#msg, #sendbtn {
+    background-color: transparent;
+    border-color: rgb(161, 150, 150);
+    box-sizing: border-box;
+}
+
+#sendbtn {
+    margin-bottom: 5%;
+}
+
+#ftr {
+    background-color: transparent;
+    padding-top: 5%;
+    font-size: 14px;
+}
+.small {
+    width: 30%;
+    display: inline-block;
+    margin: -100px;
+
+}
+
+#ulshare {
+    list-style: none;
+}
+
+blockquote {
+    color: rgb(54, 50, 50);
+}
+
+a {
+    color: rgb(92, 103, 114);
+}
